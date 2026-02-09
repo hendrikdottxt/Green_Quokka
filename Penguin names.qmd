@@ -11,7 +11,5 @@ Penguin_names
 
 House_md_characters = list("Abode", "Twelve", "Will's son", "Vex", "Stalk")
 
-
+LC_mobs = list("Bracken", "loot bug", "forest giant", "eyeless dogs", "bunker spider", "nutcracker", "butler")
 ```
-
-![](images/clipboard-1831774144.png)
